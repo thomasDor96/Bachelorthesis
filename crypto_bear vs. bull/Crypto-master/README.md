@@ -1,2 +1,0 @@
-# Crypto
-cryptocurrency analysis
