@@ -1,0 +1,7 @@
+## tensorflow
+#!pip install tensorflow
+#!pip install --upgrade tensorflow
+#!pip install --upgrade -I setuptools
+#!pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-1.0.1-cp35-cp35m-win_amd64.whl
+
+import tensorflow as tf
