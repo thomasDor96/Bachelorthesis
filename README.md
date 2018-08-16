@@ -1,3 +1,3 @@
 # Bachelorthesis
 ### Patrick Triest: Analyzing Crypo Currencies (important)
-### David 
+### David Sheehan: Crypto Prediction
