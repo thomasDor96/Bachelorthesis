@@ -1,7 +1,3 @@
 # Bachelorthesis
 ### Patrick Triest: Analyzing Crypo Currencies (important)
-### https://dashee87.github.io/data%20science/python/analysing-the-factors-that-influence-cryptocurrency-prices-with-cryptory/
-### https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/
-### https://github.com/dashee87/blogScripts/blob/master/Jupyter/2018-02-11-analysing-the-factors-that-influence-cryptocurrency-prices-with-cryptory.ipynb
-
-### https://github.com/dashee87/blogScripts/blob/master/Jupyter/2017-11-20-predicting-cryptocurrency-prices-with-deep-learning.ipynb
+### David 
