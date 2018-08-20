@@ -1,0 +1,1 @@
+https://github.com/mxbu/logbook/blob/gh-pages/blog-notebooks/google-trend.ipynb
