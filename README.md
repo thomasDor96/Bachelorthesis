@@ -7,6 +7,8 @@ CSV Data for Crytpocurrencies: https://coinmetrics.io/data-downloads/
 
 CryptoCMD - historical data/data for specific dates: https://github.com/guptarohit/cryptoCMD
 
+Crypto List as JSON: crypto_all = pd.read_json('https://api.coinmarketcap.com/v1/ticker/?limit=0')
+
 
 ### Blockchain data (e.g: Transactions per day, Wallets, ... )
 https://www.blockchain.com/charts/my-wallet-n-users?timespan=all
