@@ -18,6 +18,12 @@ https://www.blockchain.com/charts
 https://www.blockchain.com/de/charts/n-transactions?timespan=all
 
 
+### Eventl. Graphen
+https://www.kaggle.com/amitkumarjaiswal/crypto-market-analysis
+
+https://www.kaggle.com/taniaj/cryptocurrency-market-analysis
+
+
 ### Crypto-Articles Summary
 https://github.com/akankshaD/Blockchain_Understanding_And_Cryptocurrency_Analysis
 
