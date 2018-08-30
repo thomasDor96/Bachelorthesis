@@ -30,5 +30,7 @@ https://www.kaggle.com/taniaj/cryptocurrency-market-analysis
 ### Crypto-Articles Summary
 https://github.com/akankshaD/Blockchain_Understanding_And_Cryptocurrency_Analysis
 
+https://derstandard.at/2000081901719/Warum-Bitcoin-keine-Waehrung-ist
+
 
 
