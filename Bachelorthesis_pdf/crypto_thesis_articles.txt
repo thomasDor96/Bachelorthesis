@@ -1,0 +1,34 @@
+https://www.researchprospect.com/dissertation-topics-on-cryptocurrency/
+https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/krypto-kolumne/coin-und-co-die-krypto-kolumne-was-ist-los-mit-ethereum/22928538.html
+https://www.datacamp.com/community/tutorials/lstm-python-stock-market
+http://bigtheta.io/2017/04/06/notes-on-lstms-in-finance.html
+
+
+Crypto
+https://medium.com/tradecraft-traction/blockchain-for-the-rest-of-us-c3fc5e42254f
+https://www.nzz.ch/finanzen/bitcoin-14-antworten-zum-hype-ld.1336477
+https://www.nzz.ch/wirtschaft/die-us-justiz-untersucht-moegliche-bitcoin-manipulationen-ld.1395792
+https://www.nzz.ch/wirtschaft/biz-oekonomen-halten-ein-plaedoyer-gegen-bitcoin-und-co-ld.1395634
+https://hackernoon.com/state-of-cryptocurrencies-summer-2018-932016549375
+https://www.bis.org/publ/arpdf/ar2018e5.htm
+https://theconversation.com/us/topics/cryptocurrency-8321
+https://medium.com/trad%C3%ABn/quantifying-risk-an-introduction-to-building-a-crypto-asset-portfolio-bfd9d814a8a3
+http://ecomunsing.com/what-are-blockchains-good-for
+https://medium.com/swlh/how-similar-is-the-crypto-bubble-to-the-dot-com-bubble-bd6f30992e60
+https://hackernoon.com/popping-the-bubble-blockchain-and-cryptocurrency-7130156f91b2
+https://nicholastsmith.wordpress.com/2017/10/26/what-is-a-bitcoin-worth-anyway/
+https://www.ft.com/content/7ed0c3b8-a1f3-11e8-85da-eeb7a9ce36e4
+https://thenextweb.com/hardfork/2018/08/15/top-100-working-cryptocurrencies/
+https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/krypto-kolumne/
+https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/krypto-kolumne/coin-und-co-die-krypto-kolumne-der-bitcoin-preis-ist-zu-70-prozent-spekulation-wie-anleger-dennoch-profitiert-haben/22882496.html?social=fb-hb_hk-li-ne-or-&utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook&ticket=ST-2629985-OBcgdqwBckNfeG0C31IR-ap3#Echobox=1533655007
+https://blockgeeks.com/guides/what-is-cryptocurrency/
+https://files.stlouisfed.org/files/htdocs/publications/review/2018/01/10/a-short-introduction-to-the-world-of-cryptocurrencies.pdf
+
+
+
+
+Explanations of Statistics + code snippets:
+https://numex-blog.com/crypto-portfolio-optimization-part-i-correlation-matrix/
+https://numex-blog.com/crypto-portfolio-optimization-part-2-pareto-optimization/
+https://medium.com/@geenty/optimizing-your-cryptocurrency-portfolio-with-python-4c3d4c824a7f
+https://romanorac.github.io/cryptocurrency/analysis/2017/12/25/cryptocurrency-analysis-with-python-part2.html (IMPORTANT: Buy and hold)

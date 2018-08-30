@@ -1,0 +1,82 @@
+Pyhton & R Resources Overview
+https://www.datacamp.com/community/tutorials/learn-data-science-resources-for-python-r#gs.r9bz=Uw
+
+
+ML in R/Pyhton:
+https://www.superdatascience.com/machine-learning/
+https://software.intel.com/en-us/ai-academy/students/kits
+https://share.cocalc.com/share/e9d2f604-5c15-48c1-8c69-4d560cf9a933/PythonDataScienceHandbook/notebooks/?viewer=share
+https://github.com/rasbt?utf8=%E2%9C%93&tab=repositories&q=&type=&language=jupyter+notebook
+https://github.com/rasbt/pydata-chicago2016-ml-tutorial
+https://sebastianraschka.com/notebooks/python-notebooks.html
+https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6
+
+
+Statistics & Mathematics for Data Science
+https://www.methodenberatung.uzh.ch/de/skalenniveau.html
+https://www.edvancer.in/step-step-guide-to-execute-linear-regression-python/
+https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/
+https://towardsdatascience.com/boost-your-data-sciences-skills-learn-linear-algebra-2c30fdd008cf
+
+
+Visualization Tool
+https://www.datawrapper.de/
+https://anaconda.org/jbednar/pydata_cookbook/notebook
+https://plot.ly/python/candlestick-charts/ ----> For Crypto Thesis: Candlesticks in Plotly
+
+
+Python in general:
+https://github.com/donnemartin/data-science-ipython-notebooks (explanation of every Python-library)
+https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners
+https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+https://www.programiz.com/python-programming
+https://jakevdp.github.io/PythonDataScienceHandbook/
+http://pbpython.com/pandas-pivot-table-explained.html
+https://www.programiz.com/python-programming/list-comprehension
+https://www.datacamp.com/community/tutorials/python-numpy-tutorial
+https://www.datacamp.com/community/tutorials/python-dictionary-comprehension
+https://sebastianraschka.com/notebooks/python-notebooks.html
+https://towardsdatascience.com/introducing-pydbgen-a-random-dataframe-database-table-generator-b5c7bdc84be5
+[Dealing with imbalanced data (SMoTE): https://towardsdatascience.com/detecting-financial-fraud-using-machine-learning-three-ways-of-winning-the-war-against-imbalanced-a03f8815cce9
+https://www.datacamp.com/community/tutorials/converting-strings-datetime-objects
+https://www.datacamp.com/community/tutorials/python-dictionary-comprehension
+
+
+Python codes for Bachelorthesis:
+http://johnmathews.eu/macro-btc.html
+https://www.kaggle.com/kingburrito666/analyzing-the-ethereum-blockchain
+https://medium.freecodecamp.org/i-built-a-jupyter-notebook-that-will-analyze-cryptocurrency-portfolios-for-you-bdaba618aeca
+https://romanorac.github.io/cryptocurrency/analysis/2017/12/25/cryptocurrency-analysis-with-python-part2.html
+https://ntguardian.wordpress.com/2016/09/19/introduction-stock-market-data-python-1/
+https://ntguardian.wordpress.com/2018/07/17/stock-data-analysis-python-v2/
+https://towardsdatascience.com/python-for-finance-dash-by-plotly-ccf84045b8be
+https://medium.freecodecamp.org/i-built-a-jupyter-notebook-that-will-analyze-cryptocurrency-portfolios-for-you-bdaba618aeca   
+https://github.com/grantathon/crypto_portfolio_analysis/blob/master/crypto_portfolio_analyzer.ipynb
+https://medium.com/@eliquinox/cryptocurrency-data-analysis-part-i-obtaining-and-playing-with-data-of-digital-assets-2a963a72703b
+https://medium.com/@eliquinox/cryptocurrency-data-analysis-part-ii-downloading-manipulating-and-analysing-bulk-data-e234a43e6259
+https://medium.com/@eliquinox/cryptocurrency-data-analysis-part-iii-backtesting-evaluating-and-optimising-a-trading-strategy-9bc9b1179a8b
+
+
+Lstm-prediction:
+https://github.com/thushv89/datacamp_tutorials/blob/master/Reviewed/lstm_stock_market_prediction.ipynb
+https://www.datacamp.com/community/tutorials/lstm-python-stock-market?utm_medium=fb%2Cig%2Can%2Cms-all&utm_source=fb_paid&utm_campaign=smartly_ppa&utm_id=5aeb1906839578043e0fa33b
+https://hackernoon.com/dont-be-fooled-deceptive-cryptocurrency-price-predictions-using-deep-learning-bf27e4837151
+https://github.com/neocortex/lstm-bitcoin-prediction/blob/master/lstm-bitcoin-prediction.ipynb
+
+
+Blockchain codes:
+http://ecomunsing.com/build-your-own-blockchain
+http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/
+
+
+Hands-on projects:
+https://datascienceplus.com/would-you-survive-the-titanic-getting-started-in-python/
+https://www.kaggle.com/omarelgabry/a-journey-through-titanic
+https://www.dataquest.io/blog/machine-learning-tutorial/
+
+
+Book:
+https://books.google.at/books/about/Learning_Predictive_Analytics_with_Pytho.html?id=Ia5KDAAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false
+
+
