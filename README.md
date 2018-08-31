@@ -1,5 +1,9 @@
 # Bachelorthesis
 
+### important
+https://www.kaggle.com/shelars1985/bitcoin-vs-ethereum-candlestick-chart-at-the-end
+
+
 ### Links for Crypto data retrieval
 Top 100 Cryptos sorted by cryto market cap: https://github.com/PyDataBlog/Coinsta  
 
