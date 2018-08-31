@@ -30,6 +30,8 @@ https://www.kaggle.com/taniaj/cryptocurrency-market-analysis
 ### Crypto-Articles Summary
 https://github.com/akankshaD/Blockchain_Understanding_And_Cryptocurrency_Analysis
 
+http://fermatslibrary.com/s/ethereum-a-next-generation-smart-contract-and-decentralized-application-platform#email-newsletter
+
 https://derstandard.at/2000081901719/Warum-Bitcoin-keine-Waehrung-ist
 
 https://derstandard.at/2000067133087/Blockchains-Alles-dezentral-oder-was?_blogGroup=1&ref=rec
