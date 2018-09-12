@@ -1,6 +1,8 @@
 # Bachelorthesis
 
 ### important
+http://johnmathews.eu/macro-btc.html
+
 https://www.kaggle.com/shelars1985/bitcoin-vs-ethereum-candlestick-chart-at-the-end
 
 
